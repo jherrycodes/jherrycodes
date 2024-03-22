@@ -1,4 +1,4 @@
-# Hola gente, mi nombre es Jherson con aspiracion a desarrollador Web 
+# **Hola gente**, mi nombre es **Jherson** con aspiracion a desarrollador Web 
 
 ## About me
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
@@ -9,3 +9,17 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+## Hobbies
+- Read books
+- Go to the gym
+- Play video games
+
+## Languages
+- English 
+- Spanish
+- Portuguese
+
